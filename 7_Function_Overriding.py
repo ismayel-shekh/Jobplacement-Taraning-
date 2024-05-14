@@ -17,3 +17,7 @@ han.speak()
 dog = Dog()
 
 dog.speak()
+
+
+cow = Cat()
+cow.speak()
